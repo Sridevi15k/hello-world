@@ -1,2 +1,2 @@
 # hello-world
-git studio
+Hi! this is a repository for git exercises and studios.
